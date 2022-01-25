@@ -1,9 +1,18 @@
-# AI-Forest-Runner
-Assets used-
+# AI Forest Runner🌲
 
-https://rvros.itch.io/animated-pixel-hero - Character
+### Features
 
-https://edermunizz.itch.io/free-pixel-art-forest - Background
+- Python, PyGame, and NEAT
+- Parallax background movement
+- Have an AI learn play a run and jump game
 
-https://ansimuz.itch.io/gothicvania-patreon-collection - Monsters
+### How to Use
+
+- Using your Python compiler run the main.py file
+
+### Assets Used
+
+- Character: https://rvros.itch.io/animated-pixel-hero
+- Background: https://edermunizz.itch.io/free-pixel-art-forest
+- Enemies: https://ansimuz.itch.io/gothicvania-patreon-collection
 
